@@ -1,0 +1,15 @@
+fig:study
+fig:unnamed-chunk-1
+fig:unnamed-chunk-2
+fig:unnamed-chunk-3
+fig:unnamed-chunk-4
+fig:unnamed-chunk-5
+introduction
+be-organised
+mathematics-as-a-language
+learning-mathematics-from-lectures-and-notes
+other-ways-of-learning
+technology
+problem-solving-and-theorem-proving
+continuous-assessment-coursework-and-projects
+revision-techniques-and-what-to-expect-in-an-exam

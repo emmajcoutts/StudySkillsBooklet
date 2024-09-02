@@ -1,0 +1,25 @@
+p.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+.textbox {
+  padding: 1em;
+  background: Aliceblue;
+  color: black;
+  border: 2px solid DarkSlateBlue;
+  border-radius: 10px;
+}
+.center {
+  text-align: center;
+}
